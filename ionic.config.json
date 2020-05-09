@@ -1,0 +1,7 @@
+{
+  "name": "qrscanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
